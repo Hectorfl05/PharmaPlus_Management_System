@@ -1,0 +1,45 @@
+  ProyectodeAplicacion2VERSION2HéctorFlores.MyForm.resources - Embedded, ContainedInManifestFile, 
+  ProyectodeAplicacion2VERSION2HéctorFlores.MyForm1.resources - Embedded, ContainedInManifestFile, 
+  ProyectodeAplicacion2VERSION2HéctorFlores.MyForm2.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Proyecto de Aplicacion 2 VERSION2 Héctor Flores, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class ProyectodeAplicacion2VERSION2HéctorFlores.MyForm1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    ValidarProveedor(String, String, String): PrivateScope, Public, HideBySig
+    GetNameP(): PrivateScope, Public, HideBySig
+    GetNITForm(): PrivateScope, Public, HideBySig
+    GetDireccionFform(): PrivateScope, Public, HideBySig
+    GetDireccionForm(): PrivateScope, Public, HideBySig
+    GetTelefonoForm(): PrivateScope, Public, HideBySig
+    GetCorreoForm(): PrivateScope, Public, HideBySig
+Class ProyectodeAplicacion2VERSION2HéctorFlores.MyForm2: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    TxtBoxLlenos(Panel): PrivateScope, Public, HideBySig
+    GetStatusCambio(): PrivateScope, Public, HideBySig
+Class ProyectodeAplicacion2VERSION2HéctorFlores.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 Id : Public, Static
+  Methods:
+    TxtBoxLlenos(Panel): PrivateScope, Public, HideBySig
+    VaciarTxtbox(Panel): PrivateScope, Public, HideBySig
+    LLenarTabla(list<Inventario\,std::allocator<Inventario> >*, DataGridView&): PrivateScope, Public, HideBySig
+    VaciarTabla(DataGridView&): PrivateScope, Public, HideBySig

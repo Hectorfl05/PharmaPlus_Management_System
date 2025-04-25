@@ -1,0 +1,8 @@
+﻿  Inventario.cpp
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\Prueba\Proyecto de Aplicacion 2 Hector y Joaquin\Proyecto de Aplicacion 2 VERSION2 Héctor Flores\Inventario.cpp(110,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\Prueba\Proyecto de Aplicacion 2 Hector y Joaquin\Proyecto de Aplicacion 2 VERSION2 Héctor Flores\Inventario.cpp(229,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MyForm.cpp
+  MyForm1.cpp
+  Generating Code...
+  Inventario.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Proyecto de Aplicacion 2 VERSION2 Héctor Flores.vcxproj -> C:\Users\HP\OneDrive - Universidad Rafael Landivar\Documentos\Prueba\Proyecto de Aplicacion 2 Hector y Joaquin\Proyecto de Aplicacion 2 VERSION2 Héctor Flores\x64\Debug\Proyecto de Aplicacion 2 VERSION2 Héctor Flores.exe
